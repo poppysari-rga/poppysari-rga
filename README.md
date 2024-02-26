@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Poppy
+- 🎒 Digital nomad
+- 🐈 8 cats
 - 👀 I’m interested in growing to be a better engineer
-- 🌱 I’m currently learning flutter
 - 🌱 Personal github https://github.com/rashiop
 - 📫 How to reach me redalpacca@gmail.com
 
