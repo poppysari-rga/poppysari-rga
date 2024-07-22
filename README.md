@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Poppy
-- 🎒 Digital nomad
-- 🐈 8 cats
-- 👀 I’m interested in growing to be a better engineer
-- Currently learning embedded system in the UAE
+- 👋 Heyy, I’m Pops 🐈
+- 👀 Aspiring expert generalist
+- 🌱 Currently learning embedded system in the UAE
+- Digital nomads
 - 🌱 Personal github https://github.com/rashiop
 - 📫 How to reach me redalpacca@gmail.com
 
